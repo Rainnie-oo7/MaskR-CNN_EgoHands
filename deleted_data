@@ -1,0 +1,12 @@
+I deleted Folder because of some Hands weren't found in them
+and I didn't managed to bypass them with algorithm, so I just deleted 6 directories = 700 imgs!!!
+idx in dataloader  |    dir to delete   |  problematic image it was:
+2697                Jenga Livingroom B_H    2676.jpg
+4293                Puzzle Courtyard S_B    2468.jpg
+4393                       –––"–––             n.A.
+3966                Jenga Office S_B        2038.jpg
+1032                Jenga Livingroom H_B    0761.jpg
+2800                Jenga Courtyard S_T     0002.jpg
+3300                Puzzle Livingroom H_S   first two.jpg+jpg
+
+Bye

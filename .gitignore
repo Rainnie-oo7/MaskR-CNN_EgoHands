@@ -1,0 +1,6 @@
+/.idea
+/__pycache__
+/model
+/egohands_videos
+/model.pth
+/model_weights.pth
