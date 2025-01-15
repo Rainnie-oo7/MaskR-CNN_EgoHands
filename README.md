@@ -1,4 +1,4 @@
-Download the 1,3 GB Zip (Labelled Data) from http://vision.soic.indiana.edu/projects/egohands/ EgoHands Dataset. Tipp: You can of course delete all but three or four directories for quciker tarinrainingg.
+Download the 1,3 GB Zip (Labelled Data) from http://vision.soic.indiana.edu/projects/egohands/ EgoHands Dataset. Tipp: You can of course delete all but three or four directories for quciker tarinrainingg. Used Pytorch on Custom Dataset, see https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html the intermediate/tutorial Finetuning Object detection Tutorial by Pytorch
 
 Unzip it and rename the folder _LABELLED_SAMPLES into data
 
